@@ -3,7 +3,7 @@
 ### I am Fatima Ezzahra ELMENOUN
 
 - 🔭 I’m currently student at Microverse.
-- 🌱 I’m currently learning JavaScript, React, C# and ruby.
+- 🌱 I’m currently learning JavaScript, React, C# and Ruby on Rails.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## GitHub Stats
