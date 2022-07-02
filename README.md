@@ -2,8 +2,9 @@
 
 ### I am Fatima Ezzahra ELMENOUN
 
-- 🔭 I’m currently student at Microverse.
-- 🌱 I’m currently learning JavaScript, React and Ruby on Rails.
+- 🔭 I’m Microverse alumna.
+- 🌱 I'm a full-stack web developer, React, and Rails enthusiast with a love for clean code and accessible design. 
+- Pair-programming and remote work aficionado. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## Contact
