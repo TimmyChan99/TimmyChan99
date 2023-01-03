@@ -1,4 +1,4 @@
-### Hello World! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5700DF&width=435&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### I am Fatima Ezzahra ELMENOUN
 
@@ -56,5 +56,4 @@
 ## Most used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
