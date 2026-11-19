@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D83A7C&width=435&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### I am Fatima zahra MENOUN
+### I am Fatima ZZ
 
 - 🔭 I graduated from Microverse.
 - 🌱 I'm a full-stack web developer, React, and Rails enthusiast with a love for clean code and accessible design. 
